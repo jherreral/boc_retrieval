@@ -1,0 +1,1 @@
+- Add automatic path detection to set as download folder.
