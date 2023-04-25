@@ -1,1 +1,2 @@
+- Finish the credit card change to get its movements.
 - Add automatic path detection to set as download folder.
